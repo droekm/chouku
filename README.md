@@ -2,7 +2,7 @@
 
 Chouku is a full color scheme for the Sublime Text editor.
 
-![images](https://raw.githubusercontent.com/droekm/chouku/master/images/images.gif)
+![images](https://github.com/droekm/chouku/blob/master/images/cpp.PNG)
 
 ### Installation
 
